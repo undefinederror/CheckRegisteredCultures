@@ -12,7 +12,7 @@ namespace CheckRegisteredCultures
         public string ResisterCulturePath;
         public Settings()
         {
-            CountryXmlPath = @"D:\dev\RayBan\RB2012-DEV\Web\RB.WebUI\_repository\_resources\_xml\countries.xml";
+            CountryXmlPath = @"D:\RayBan\RB2012-DEV\Web\RB.WebUI\_repository\_resources\_xml\countries.xml";
             ResisterCulturePath = @"D:\RegisterCulture.exe"; //not needed
         }
         
