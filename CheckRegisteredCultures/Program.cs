@@ -24,7 +24,7 @@ namespace CheckRegisteredCultures
             }
             else
             {
-                Console.WriteLine("All cultures in country.xml are already registered!");
+                Console.WriteLine("All cultures in countries.xml are already registered!");
             }
             Console.Read();
             
